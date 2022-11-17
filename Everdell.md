@@ -2,6 +2,7 @@
 
 Published by [Starling Games](https://starling-games-tt.squarespace.com/our-games)
 
+![Everdell](https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__imagepage/img/ijYTk6KGtxLRdIvLsGar13ZHs4c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3918905.png)
 
 ** Goal of the game **
 
