@@ -1,13 +1,13 @@
 # Magic the Gathering
 
-Created by 
+Published by [Wizard of the Coast](https://magic.wizards.com/en)
 
-### Here are some pictures
-![image]()
+![MTG Card](https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg)
+
 
 ** Goal of the game **
 
-For more information, here is the [Game site]() site
+For more information, here is the [site](https://en.wikipedia.org/wiki/Magic:_The_Gathering) to visit
 
 ### Page Links
 [Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
