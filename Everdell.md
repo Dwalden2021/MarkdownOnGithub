@@ -9,9 +9,9 @@ Created by
 
 For more information, here is the [Game site]() site
 
-### Links
-[Link to Home](https://github.com/Dwalden2021/My_Project/blob/main/README.md) | 
-[Link to Arkham Horror](https://github.com/Dwalden2021/My_Project/blob/main/RPGLE.md) | 
-[Link to Everdell](https://github.com/Dwalden2021/My_Project/blob/main/CLLE.md) | 
-[Link to Pandemic](https://github.com/Dwalden2021/My_Project/blob/main/JavaScript.md) | 
-[Link to MTG](https://github.com/Dwalden2021/My_Project/blob/main/Python.md) | 
+### Page Links
+[Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
+[Arkham Horror](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/ArkhamHorror.md) || 
+[Everdell](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/Everdell.md) || 
+[Pandemic](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/Pandemic.md) || 
+[Magic the Gathering](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/MTG.md) || 
