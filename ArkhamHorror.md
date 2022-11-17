@@ -1,13 +1,13 @@
-# Arkham Horror
+# Arkham Horror (3rd Edition)
 
-Created by 
+Published by [Fantasy Flight Games](https://www.fantasyflightgames.com/en/products/arkham-horror-third-edition/)
 
 ### Here are some pictures
-![image]()
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Funwind-cafe.myshopify.com%2Fproducts%2Farkham-horror-the-card-game&psig=AOvVaw0gEev2bgpnX4NYRki4CQe3&ust=1668744731132000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPD3q9mstPsCFQAAAAAdAAAAABAH)
 
 ** Goal of the game **
 
-For more information, here is the [Game site](https://boardgamegeek.com/boardgame/15987/arkham-horror) site
+For more information, here is the [site](https://boardgamegeek.com/boardgame/15987/arkham-horror) to visit
 
 ### Page Links
 [Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
