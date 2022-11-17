@@ -1,13 +1,13 @@
 # Magic the Gathering
 
-Published by [Wizard of the Coast](https://magic.wizards.com/en)
+Published by [Wizard of the Coast](https://company.wizards.com/en)
 
 ![MTG Card](https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg)
 
 
 ** Goal of the game **
 
-For more information, here is the [site](https://en.wikipedia.org/wiki/Magic:_The_Gathering) to visit
+For more information, here is the [site](https://magic.wizards.com/en) to visit
 
 ### Page Links
 [Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
