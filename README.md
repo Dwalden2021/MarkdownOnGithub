@@ -5,7 +5,7 @@
 
 Here are some table top games that I enjoy playing with my kiddos
 
-### Here is more:
+### These are our top 4 choices:
 * Arkham Horror
 * Everdell
 * Pandemic
