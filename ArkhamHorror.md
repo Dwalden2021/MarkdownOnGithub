@@ -7,7 +7,7 @@ Created by
 
 ** Goal of the game **
 
-For more information, here is the [Game site]() site
+For more information, here is the [Game site](https://boardgamegeek.com/boardgame/15987/arkham-horror) site
 
 ### Page Links
 [Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
