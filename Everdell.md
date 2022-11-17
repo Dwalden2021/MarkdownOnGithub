@@ -1,13 +1,12 @@
 # Everdell
 
-Created by 
+Published by [Starling Games](https://starling-games-tt.squarespace.com/our-games)
 
-### Here are some pictures
-![image]()
 
 ** Goal of the game **
 
-For more information, here is the [Game site]() site
+
+For more information, here is the [site](https://boardgamegeek.com/boardgame/199792/everdell) to visit
 
 ### Page Links
 [Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
