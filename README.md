@@ -1,6 +1,6 @@
 # Family Gaming
 
-## Welcome, My name is Devon and here is my page!
+## Welcome, my name is Devon and here is my page!
 ---
 
 Something I have always enjoyed as a hobby is gaming.  Now it is something that I have gotten my kids into also. It is a fun and enjoyable pass time for all of us. Here are some table top games that we enjoy playing together the most. 
