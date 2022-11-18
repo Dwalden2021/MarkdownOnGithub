@@ -10,7 +10,7 @@ In Everdell 1 to 4 players each pick a forest creature to play. They focus to bu
 
 For more information, here is the [site](https://boardgamegeek.com/boardgame/199792/everdell) to visit
 
-[Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
+|| [Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
 [Arkham Horror](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/ArkhamHorror.md) || 
 [Everdell](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/Everdell.md) || 
 [Pandemic](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/Pandemic.md) || 
