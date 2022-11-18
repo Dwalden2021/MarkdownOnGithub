@@ -11,7 +11,7 @@ Personally, this is my favorite game to play. I enjoy the versatility and variet
 
 For more information, here is the [site](https://magic.wizards.com/en) to visit
 
-[Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
+|| [Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
 [Arkham Horror](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/ArkhamHorror.md) || 
 [Everdell](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/Everdell.md) || 
 [Pandemic](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/Pandemic.md) || 
