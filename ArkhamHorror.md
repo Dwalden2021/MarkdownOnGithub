@@ -4,9 +4,11 @@ Published by [Fantasy Flight Games](https://www.fantasyflightgames.com/en/produc
 
 ![ArkhamHorror](https://cf.geekdo-images.com/ex8DrGtCifqEpkSd2d9ReQ__imagepage/img/NKH1kFBea4NY7SMp0gOqqxJem-U=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4582151.jpg)
 
-** Goal of the game **
+**What is the goal of the game?**
+Arkham horror is a cooperative game played by 1 to 6 players.  Each player takes on the role of a separate investigator.  The group of investigators must work together to battle against and rid the world of Ancient Ones. The ancient ones are eldritch beings based upon the writings of H.P. Lovecraft.
 
-
+![image](https://user-images.githubusercontent.com/92900193/202606462-3f18641e-2ec2-4716-8aa2-1da5d6eafe17.png)
+ 
 For more information, here is the [site](https://boardgamegeek.com/boardgame/257499/arkham-horror-third-edition) to visit
 
 ### Page Links
