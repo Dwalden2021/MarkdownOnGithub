@@ -8,6 +8,8 @@ Published by [Fantasy Flight Games](https://www.fantasyflightgames.com/en/produc
 
 Arkham horror is a cooperative game played by 1 to 6 players.  Each player takes on the role of a separate investigator.  The group of investigators must work together to battle against and rid the world of Ancient Ones. The ancient ones are eldritch beings based upon the writings of H.P. Lovecraft.
  
+ 
+ 
 For more information, here is the [site](https://boardgamegeek.com/boardgame/257499/arkham-horror-third-edition) to visit
 
 [Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
