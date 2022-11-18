@@ -9,7 +9,7 @@ In Pandemic 1 to 4 players take on the role of members on a disease control team
 
 For more information, here is the [site](https://boardgamegeek.com/boardgame/30549/pandemic) to visit
 
-[Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
+|| [Home](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/README.md) || 
 [Arkham Horror](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/ArkhamHorror.md) || 
 [Everdell](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/Everdell.md) || 
 [Pandemic](https://github.com/Dwalden2021/MarkdownOnGithub/blob/main/Pandemic.md) || 
